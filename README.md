@@ -1,11 +1,27 @@
 # Data Analytics Portfolio – Atharva Devkar
 
-This repository contains my data analytics projects using Excel, Power BI, and SQL.
+This repository showcases my **Data Analytics projects** built using Excel, Power BI, and SQL, focusing on transforming raw data into actionable insights.
 
 ---
 
-## 📊 Excel Project
-**Hospital Emergency Room Dashboard**  
+## 📊 Power BI Project  
+
+### Mobile Sales Dashboard  
+- Built a fully interactive dashboard using Power BI  
+- Applied DAX Time Intelligence (MTD, QTD, YTD, SAMEPERIODLASTYEAR)  
+- Developed KPIs: Total Sales, Quantity, Average Price & Transactions  
+- Implemented drill-through navigation for detailed analysis  
+- Integrated Power BI Q&A for natural language insights  
+- Used Gen AI tools (ChatGPT) for DAX optimization and dashboard design  
+
+🔗 Project Link:  
+https://github.com/atharvadevkar2004-alt/Data-Analytics-Portfolio/tree/main/PowerBI-Mobile-Sales-Dashboard  
+
+---
+
+## 📊 Excel Project  
+
+### Hospital Emergency Room Dashboard  
 - Built interactive dashboard using Excel  
 - Used Power Query for data cleaning  
 - Created KPIs and visualizations  
@@ -15,11 +31,11 @@ https://github.com/atharvadevkar2004-alt/Hospital-Emergency-Room-DashBoard
 
 ---
 
-## 🗄️ SQL Projects
+## 🗄️ SQL Projects  
 
 ### 1. Bookstore Data Analysis  
 - Created relational database (Books, Customers, Orders)  
-- Used JOIN, GROUP BY, aggregate functions  
+- Used JOIN, GROUP BY, and aggregate functions  
 
 🔗 Project Link:  
 https://github.com/atharvadevkar2004-alt/SQL-Bookstore-Project  
@@ -42,15 +58,15 @@ https://github.com/atharvadevkar2004-alt/zepto-sql-analysis
 
 ---
 
-## 🛠️ Skills Used
+## 🛠️ Skills Used  
 - Microsoft Excel  
-- Power BI (DAX, Data Modeling)  
+- Power BI (DAX, Data Modeling, Visualization)  
 - SQL  
-- Data Cleaning & Visualization  
+- Data Cleaning & Data Visualization  
 
 ---
 
-## 👤 Author
-Atharva Devkar  
+## 👤 Author  
+**Atharva Devkar**  
 📧 atharvadevkar2004@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/atharva-devkar
+🔗 LinkedIn: https://www.linkedin.com/in/atharva-devkar  

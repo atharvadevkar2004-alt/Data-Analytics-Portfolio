@@ -31,6 +31,3 @@ This project analyzes insurance data to identify claim patterns, customer behavi
 * DAX
 * Power Query
 
-## 📷 Dashboard Preview
-
-(Add your image after moving it into this folder)

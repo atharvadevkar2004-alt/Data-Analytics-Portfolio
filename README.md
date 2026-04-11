@@ -4,69 +4,88 @@ This repository showcases my **Data Analytics projects** built using Excel, Powe
 
 ---
 
-## 📊 Power BI Project  
+## 📊 Power BI Project
 
-### Mobile Sales Dashboard  
-- Built a fully interactive dashboard using Power BI  
-- Applied DAX Time Intelligence (MTD, QTD, YTD, SAMEPERIODLASTYEAR)  
-- Developed KPIs: Total Sales, Quantity, Average Price & Transactions  
-- Implemented drill-through navigation for detailed analysis  
-- Integrated Power BI Q&A for natural language insights  
-- Used Gen AI tools (ChatGPT) for DAX optimization and dashboard design  
+### 1. Mobile Sales Dashboard
 
-🔗 Project Link:  
-https://github.com/atharvadevkar2004-alt/Data-Analytics-Portfolio/tree/main/PowerBI-Mobile-Sales-Dashboard  
+* Built a fully interactive dashboard using Power BI
+* Applied DAX Time Intelligence (MTD, QTD, YTD, SAMEPERIODLASTYEAR)
+* Developed KPIs: Total Sales, Quantity, Average Price & Transactions
+* Implemented drill-through navigation for detailed analysis
+* Integrated Power BI Q&A for natural language insights
+* Used Gen AI tools (ChatGPT) for DAX optimization and dashboard design
 
----
-
-## 📊 Excel Project  
-
-### Hospital Emergency Room Dashboard  
-- Built interactive dashboard using Excel  
-- Used Power Query for data cleaning  
-- Created KPIs and visualizations  
-
-🔗 Project Link:  
-https://github.com/atharvadevkar2004-alt/Hospital-Emergency-Room-DashBoard  
+🔗 Project Link:
+https://github.com/atharvadevkar2004-alt/Data-Analytics-Portfolio/tree/main/PowerBI-Mobile-Sales-Dashboard
 
 ---
 
-## 🗄️ SQL Projects  
+### 2. Insurance Claims Analysis Dashboard
 
-### 1. Bookstore Data Analysis  
-- Created relational database (Books, Customers, Orders)  
-- Used JOIN, GROUP BY, and aggregate functions  
+* Built an interactive dashboard using Power BI to analyze insurance claims and policy data
+* Developed KPIs: Total Policies, Total Claim Amount, Claim Frequency, Average Claim Amount
+* Identified high-risk customer segments and claim patterns
+* Performed analysis based on car usage, demographics, and driver profile
+* Used DAX, Power Query, and data modeling for insights
 
-🔗 Project Link:  
-https://github.com/atharvadevkar2004-alt/SQL-Bookstore-Project  
-
----
-
-### 2. SQL Practice Queries  
-- Solved multiple SQL queries using real-world datasets  
-
-🔗 Project Link:  
-https://github.com/atharvadevkar2004-alt/SQL-Practice-Subquery  
+🔗 Project Link:
+https://github.com/atharvadevkar2004-alt/Data-Analytics-Portfolio/tree/main/PowerBI-Insurance-Claims-Dashboard
 
 ---
 
-### 3. Zepto Sales Analysis  
-- Performed SQL-based data analysis on sales dataset  
+## 📊 Excel Project
 
-🔗 Project Link:  
-https://github.com/atharvadevkar2004-alt/zepto-sql-analysis  
+### Hospital Emergency Room Dashboard
 
----
+* Built interactive dashboard using Excel
+* Used Power Query for data cleaning
+* Created KPIs and visualizations
 
-## 🛠️ Skills Used  
-- Microsoft Excel  
-- Power BI (DAX, Data Modeling, Visualization)  
-- SQL  
-- Data Cleaning & Data Visualization  
+🔗 Project Link:
+https://github.com/atharvadevkar2004-alt/Hospital-Emergency-Room-DashBoard
 
 ---
 
-## 👤 Author  
-**Atharva Devkar**  
-📧 atharvadevkar2004@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/atharva-devkar  
+## 🗄️ SQL Projects
+
+### 1. Bookstore Data Analysis
+
+* Created relational database (Books, Customers, Orders)
+* Used JOIN, GROUP BY, and aggregate functions
+
+🔗 Project Link:
+https://github.com/atharvadevkar2004-alt/SQL-Bookstore-Project
+
+---
+
+### 2. SQL Practice Queries
+
+* Solved multiple SQL queries using real-world datasets
+
+🔗 Project Link:
+https://github.com/atharvadevkar2004-alt/SQL-Practice-Subquery
+
+---
+
+### 3. Zepto Sales Analysis
+
+* Performed SQL-based data analysis on sales dataset
+
+🔗 Project Link:
+https://github.com/atharvadevkar2004-alt/zepto-sql-analysis
+
+---
+
+## 🛠️ Skills Used
+
+* Microsoft Excel
+* Power BI (DAX, Data Modeling, Visualization)
+* SQL
+* Data Cleaning & Data Visualization
+
+---
+
+## 👤 Author
+
+**Atharva Devkar**
+📧 [atharvadevkar2004@gmail.com](mailto:atharvadevkar2004@gmail.com)
